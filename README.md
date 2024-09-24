@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/social-links-profile-lqmLitxDlh)
+- Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/results-summary-component-P4UTkd_n6P)
 - Live Site URL: [GitHub Pages Live URL](https://justcallmezino.github.io/Results-summary-component/)
 
 ## My process
